@@ -1,0 +1,19 @@
+{
+  "ENABLED" = "Enabled";
+  "STYLE" = "Style";
+
+  "COMPONENTS" = "Settings";
+  "NOTIFICATIONS" = "NotofiXations";
+  "EVERYWHERE" = "Everywhere";
+  "SETTINGS" = "Enable in SettinX";
+  "ICON_LABELS" = "Icon Labels";
+
+  "RESPRING" = "Respring";
+  "ARE_YOU_SURE_TO_RESET_PREFS" = "Are u sure?";
+  "OK" = "Yeet";
+  "CANCEL" = "Heck no";
+  "RESET_PREFS" = "I don't like dem settings. Go back!";
+  "SOURCE_CODE" = "Source code";
+  "DONATE_TO_NEPETA" = "Donate $ to Nepeta";
+  "SUPPORT_ME" = "Do it!";
+}

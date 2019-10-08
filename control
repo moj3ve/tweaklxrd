@@ -1,0 +1,9 @@
+Package: com.daveapps.tweaklxrd
+Name: tweaklxrd
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>=11.0)
+Version: 1
+Architecture: iphoneos-arm
+Description: the 10 is real
+Maintainer: Dave
+Author: Nepeta and Dave
+Section: Tweaks
